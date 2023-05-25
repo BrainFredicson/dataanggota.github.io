@@ -156,7 +156,7 @@ nav img {
 }
 .overlay:target .next, .prev {
     text-indent: -999999px;
-    background-image: url(img/next.png);
+    background-image: url(../img/next.png);
     background-size: cover;
     width: 70px;
     height: 70px;
@@ -164,7 +164,7 @@ nav img {
     top: 40%;
 }
 .prev {
-    background-image: url(img/prev.png);
+    background-image: url(../img/prev.png);
     left: 258px;
 }
 .next, .prev {
